@@ -20,3 +20,9 @@ deve se chamar “carrinho” que simula o carrinho de compras de produtos varia
 um e-commerce. Insira nesse “carrinho” vários mouses e livros e depois chame o método
 “getDescricao” de todos os objetos presentes no arraylist. Para o usuário do carrinho saber as
 informações dos produtos em seu carrinho.
+
+Para a execução do projeto, basta digitar no terminal:
+``javac Main.java``
+
+E, em seguida:
+``java Main``
